@@ -1,0 +1,47 @@
+/* Write your code here */
+/* Write your code here */
+.heading {
+  color: white;
+}
+.image {
+  height: 80px;
+  width: 80px;
+}
+.username {
+  color: white;
+  font-size: 18px;
+}
+.company-name {
+  color: #171f46;
+}
+.description {
+  color: #171f46;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-image: url(https://assets.ccbp.in/frontend/react-js/reviews-bg.png);
+  width: 50vw;
+  padding: 10px;
+  align-items: center;
+}
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.arrow {
+  height: 30px;
+  width: 30px;
+}
+.button {
+  height: 40px;
+    width: 40px;
+}
